@@ -52,10 +52,9 @@
 ![GOKS Screen Shot][product-screenshot]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-https://github.com/user-attachments/assets/edacba96-b9a2-4a46-9d2e-37b97ea46420
-![GOKS Video][demo-video]
-### Demo Video
 
+### Demo Video
+https://github.com/user-attachments/assets/d805246c-5898-4484-9dbf-343a68dd0a4a
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
