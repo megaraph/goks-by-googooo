@@ -49,10 +49,10 @@
 ## About The Project
 
 ### Screenshot
-
 ![GOKS Screen Shot][product-screenshot]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+https://github.com/user-attachments/assets/edacba96-b9a2-4a46-9d2e-37b97ea46420
 ![GOKS Video][demo-video]
 ### Demo Video
 
