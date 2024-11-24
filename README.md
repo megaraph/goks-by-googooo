@@ -50,10 +50,10 @@
 
 ### Screenshot
 
-![Product Name Screen Shot][product-screenshot]
+![GOKS Screen Shot][product-screenshot]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
+![GOKS Video][demo-video]
 ### Demo Video
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -77,6 +77,7 @@ Distributed under the GNU General Public License. See `LICENSE.txt` for more inf
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+
 [contributors-shield]: https://img.shields.io/github/contributors/megaraph/tab-scheduler.svg?style=for-the-badge
 [contributors-url]: https://github.com/megaraph/goks-by-googooo/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/megaraph/tab-scheduler.svg?style=for-the-badge
@@ -88,6 +89,7 @@ Distributed under the GNU General Public License. See `LICENSE.txt` for more inf
 [license-shield]: https://img.shields.io/github/license/megaraph/tab-scheduler.svg?style=for-the-badge
 [license-url]: https://github.com/megaraph/goks-by-googooo/blob/main/LICENSE
 [product-screenshot]: img/screenshot.png
+[demo-video]: https://github.com/user-attachments/assets/daedfbb6-8083-4a48-bf44-c198d173a639
 [React.dev]: https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB
 [React-url]: https://react.dev/
 [Flask.palletsprojects.com]: https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff
